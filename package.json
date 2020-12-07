@@ -1,0 +1,31 @@
+{
+  "name": "graphql_example",
+  "version": "1.0.0",
+  "description": "Scott Williams' GraphQL Example",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SawWebFuture/GraphQL-Example.git"
+  },
+  "keywords": [
+    "graphql",
+    "web"
+  ],
+  "author": "Scott Alan Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SawWebFuture/GraphQL-Example/issues"
+  },
+  "homepage": "https://github.com/SawWebFuture/GraphQL-Example#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
