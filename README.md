@@ -1,5 +1,5 @@
 # GraphQL-Example with GraphQL Interface
-Providing a GraphQL Example for Employers.
+Providing a GraphQL Example for Employers. Ask for what you need, get exactly that!
 
 ### Description
 Using Node JS and Express, we create a GraphQL example. GraphQL is a powerful query language for API. It allows us to target specific information without having to have many different requests. 
