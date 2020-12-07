@@ -1,4 +1,4 @@
-# GraphQL-Example
+# GraphQL-Example with GraphQL Interface
 Providing a GraphQL Example for Employers.
 
 ### Description
